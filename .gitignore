@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AngelCo.Parser/v15/Server/sqlite3
+/AngelCo.Domain/obj
+/AngelCo.Parser/bin/Debug/netcoreapp2.2
+/AngelCo.Parser/obj
+/AngelCo.Repositories/obj
+/AngleCo.Services/obj
+/packages
+/AngleCo.Services/bin/Debug/netstandard2.0
+/AngelCo.Repositories/bin/Debug/netstandard2.0
+/.vs/AngelCo.Parser/v15
+/AngelCo.Domain/bin/Debug/netstandard2.0
